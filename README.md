@@ -1,2 +1,2 @@
 # web-designing-lab
-code
+WEB-DAY-0
